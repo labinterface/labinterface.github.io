@@ -14,3 +14,9 @@ Plataforma dedicada ao Laboratório de Interface do curso de Desenho Industrial 
 - Adicionados os primeiros textos.
 - Adicionadas as Fontes.
 - Adicionada imagem do primeiro banner que também se comporta de maneira responsíva.
+
+11/12/2020
+- Menu "Hamburguer" implementado.
+- Animação da Navbar implementada.
+- Tópicos adicionados ao Menu, porém ainda não organizados.
+- Header agora some quando o usuário scrolla a página para baixo e reaparece quando scrollada para cima.
