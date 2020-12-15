@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta char="utf-8">
+        <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Viewport criada para fazer o website ser responsivo em devices diferentes -->
         <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
         <script src="menu.js"></script>
@@ -13,7 +13,6 @@
             #grad{
                 height: auto;
                 background-image: linear-gradient(180deg, #EAEAEA 0%, #FFFFFF 100%);
-
             }
             h1{
                 font-family: 'Work Sans', sans-serif;
@@ -25,8 +24,7 @@
                 text-align: center;
                 margin-left: 50px;
                 margin-right: 50px;
-                color: #803DCA;
-                
+                color: #803DCA;  
             }
             p{
                 font-family: 'Biryani', sans-serif;
@@ -39,9 +37,22 @@
                 color: #212121;
             }
             ul{
+                margin-left: 20%;
+                margin-top: 20%;
+            }
+            li{
+                padding-bottom: 10px;
+            }
+            button{
+                background:none;
+                border:none;
+                margin:0;
+                padding:0;
+                cursor: pointer;
                 font-family: 'Work Sans', sans-serif;
                 color: #ffffff;
-                margin: 30%;
+                font-size: 27px;
+                font-weight: 600;
             }
         </style>
     </head>
@@ -52,24 +63,24 @@
                 <span></span>
                 <span></span>
             </div>
-            <a href="index.html">
+            <a href="index.html" class="logo_home">
                 <img src="imgs/PSEUDOMARCA_LAB.png" alt="Laboratório de Interface" style="width:101px;height:94px;" class="position">
             </a>
             <div class="navbar">
                 <span>
                     <ul>
-                        <li>Home</li>
-                        <li>Projetos</li>
-                        <li>Artigos</li>
-                        <li>Eventos</li>
-                        <li>Metodologia</li>
-                        <li>Sobre</li>
+                        <li><a href="index.html"><button>Home</button></a></li>
+                        <li><button>Publicações</button></li>
+                        <li><button>Eventos</button></li>
+                        <li><button>Projetos</button></li>
+                        <li><button>Curadoria</button></li>
                     </ul>
                 </span>
-            </div>           
+            </div>
         </nav> <!-- Navbar responsiva para qualquer modelo de smartphone -->
-        <div id="grad"> <!-- Div pra deixar o fundo da página com o leve gradiente -->
-            <h1>Laboratório de Interface | Desenho Industrial UFSM</h1>
+        <div class="fade_me"></div>
+        <div id="grad"> <!-- Div pra deixar o fundo da página com o leve gradiente -->>    
+            <h1>Laboratório de Interface | Desenho Industrial UFSM</h1>    
             
             <img src="imgs/technology_banner.jpg" alt="Conectar seres humanos e tecnologia" class="technoly_banner">
             
