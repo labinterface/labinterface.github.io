@@ -23,7 +23,6 @@ $(document).ready(function(){
         if(clickFlag == 0 && openFlag == 1) {
             OpClMenu();
             openFlag = 0;
-            console.log("flag = ", flag);
         }
         else {
             clickFlag=0;
@@ -79,6 +78,7 @@ function OpClMenu(){
         $('li').toggleClass('anim');
         $('.fade_me').toggleClass('open');
         $('a.logo_home').toggleClass('remove_link');
+        $('nav').toggleClass('open');
         LockScroll(flag);
         flag ++;
     }
@@ -90,6 +90,7 @@ function OpClMenu(){
         $('li').removeClass('anim');
         $('.fade_me').removeClass('open');
         $('a.logo_home').removeClass('remove_link');
+        $('nav').toggleClass('open');
         LockScroll(flag);
         openFlag = 0;
         flag++;
