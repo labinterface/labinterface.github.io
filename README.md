@@ -1,4 +1,4 @@
-# plataforma-laboratorio-di-ufsm
+ # plataforma-laboratorio-di-ufsm
 Plataforma dedicada ao Laboratório de Interface do curso de Desenho Industrial da UFSM
 
 05/12/2000 -> Início do projeto baseado nos mockups do Figma
@@ -33,3 +33,16 @@ Plataforma dedicada ao Laboratório de Interface do curso de Desenho Industrial 
 - Removidada a capadidade de scrollar a tela enquanto o menu estiver aberto.
 - Menu agora fecha ao se clicar em qualquer ponto da tela após aberto (além de clicar no x).
 - Corrigidos os rótulos dos tópicos do menu.
+
+16/12/2020
+- Adicionados textos restantes ao Index.
+- Adicionada imagem e descrição do perfil da professora.
+- Adicionados "cards" placeholders de cada área do site.
+- Arquivo CSS divididos em index_style e menu_style.
+
+17/12/2020
+- Corrigido um bug que impedia o usuário de clicar em links e selecionar textos nas páginas (essa correção gerou um pequeno problema com a animação de retorno da navbar a qual ela aparece cortada por um segundo. Infelizmente, acho que não tem como corrigir esse problema pq o bug era gerado devido a natureza como a barra foi implementada).
+- Adicionada a página do Evento Permanente.
+- Adicionada a página de Participante do evento.
+- Adicionada a página de Publicações.
+- Adicionada a página de Projetos.
