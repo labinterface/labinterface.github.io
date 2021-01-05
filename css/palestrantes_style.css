@@ -1,0 +1,171 @@
+#grad{
+    height: auto;
+    background-image: linear-gradient(180deg, #EAEAEA 0%, #FFFFFF 100%);
+}
+
+h1{
+    font-family: 'Work Sans', sans-serif;
+    padding: 200px 0px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #3D71B7;  
+}
+
+p{
+    font-family: 'Biryani', sans-serif;
+    padding: 0px 0px 50px;
+    font-size: 18px;
+    line-height: 32px;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #212121;
+}
+
+ul{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.fogliano{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/fernando_fogliano.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.ubiratan{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/ubiratan.jpg);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.flavio{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/flavio_santana.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.barbara{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/Barbara-Niriz-UX-Designer-Produto.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.guto{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/Fotografia_Guto.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.camila{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/Camila-perfil-iicd.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.christian{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/Christian.jpg);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.nata{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/nata.jpeg);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.laura{
+    width:315px;
+    height:315px;
+    border-radius: 50%;
+    background-image: url(/imgs/Fotografia_Laura.jpeg);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10%;
+    border-radius: 20px;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.footer {
+    padding: 20px 0 16px 0;
+    text-align: center;
+    background: #fff;
+    font-family: 'Biryani', sans-serif;
+}
+.footer-copyright p {
+    margin:200px auto 20px auto;
+    text-align: center;
+    line-height: 14px;
+    font-size: 10px;
+    color: #666;
+    
+}
