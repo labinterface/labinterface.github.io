@@ -51,3 +51,6 @@ Plataforma dedicada ao Laboratório de Interface do curso de Desenho Industrial 
 - add conteúdo
 - falta responsividade desktop
 - falta arrumar menu
+
+10/01
+- falta reposicionar fotos
