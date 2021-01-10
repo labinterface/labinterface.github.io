@@ -1,0 +1,274 @@
+#grad{
+    height: auto;
+    background-image: linear-gradient(180deg, #EAEAEA 0%, #FFFFFF 100%);
+}
+
+a:link 
+{ 
+ text-decoration:none; 
+} 
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+      grid-gap: 10px;
+}
+
+
+@media only screen and (max-width:900px) {
+        
+.grid-container{
+    display: grid;
+    grid-template-columns: 100%;
+}
+}
+
+h1{
+    font-family: 'Work Sans', sans-serif;
+    padding: 200px 0px 50px;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 32px;
+    align-items: center;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #3D71B7;  
+}
+
+h2{
+    font-family: 'Work Sans', sans-serif;
+    padding: 0px 0px 50px;
+    font-weight: 600;
+    font-size: 2em;
+    line-height: 38px;
+    align-items: center;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: #3168B2;  
+}
+h2:hover{
+    color: #333333;    
+}
+
+
+p{
+    font-family: 'Biryani', sans-serif;
+    padding: 0px 0px 50px;
+    font-size: 18px;
+    line-height: 32px;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #212121;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+ul{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+article p{
+    font-family: 'Biryani', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+    align-items: center;
+    text-align: center;
+    color: #212121;
+    margin-top: 5px;
+}
+
+article p span:nth-of-type(1){
+    font-weight: bold;
+}
+
+article p span:nth-of-type(2){
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 21px;
+    color: rgba(1, 139, 169, 0.82);
+}
+
+article a{
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.link_entrevistas{
+    font-family: "Work Sans", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    align-items: center;
+    text-align: center;
+    color: #3168B2;
+    margin-top: auto;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.link_entrevistas:hover{
+   color: #666666;
+}
+
+.participante_01{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/fernando_fogliano.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.participante_02{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/ubiratan.jpg);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.participante_03{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/flavio_santana.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.participante_04{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/Barbara-Niriz-UX-Designer-Produto.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.participante_05{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/Fotografia_Guto.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.participante_06{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/Camila-perfil-iicd.png);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+
+.participante_07{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/Christian.jpg);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.participante_08{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/nata.jpeg);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.participante_09{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-image: url(/imgs/Fotografia_Laura.jpeg);
+    background-size:cover;
+    /*background-position:0% 0%;*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.logoevento{
+    width:20%;
+    height:auto;
+    position:relative;
+    left: 40%;
+    top:25%;
+    margin-bottom: 5%;
+
+}
+
+.footer {
+    padding: 20px 0 16px 0;
+    text-align: center;
+    background: #fff;
+    font-family: 'Biryani', sans-serif;
+}
+.footer-copyright p {
+    margin:20px 20px 20px 20px;
+    text-align: center;
+    line-height: 14px;
+    font-size: 10px;
+    color: #666;
+    
+}
