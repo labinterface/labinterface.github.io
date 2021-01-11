@@ -145,6 +145,24 @@ article a{
     width: 30%;
 }
 
+
+@media only screen and (max-width:900px) {
+   .technoly_banner{
+    object-fit: cover;
+    object-position: 40% 30% ;
+    width: 485px; 
+    height: 392px;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: -50px;
+    width: 80%;
+} 
+    
+    .h4{
+       margin-left: auto;  
+    }
+}
+
 .cover_01{
     width:45%;
     height:314px;
