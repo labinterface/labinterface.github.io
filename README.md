@@ -54,3 +54,6 @@ Plataforma dedicada ao Laboratório de Interface do curso de Desenho Industrial 
 
 10/01
 - falta reposicionar fotos
+
+12/01
+ok
