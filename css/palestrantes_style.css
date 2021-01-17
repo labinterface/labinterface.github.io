@@ -69,6 +69,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 .ubiratan{
     width:315px;
@@ -80,6 +83,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 .flavio{
     width:315px;
@@ -91,6 +97,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 .barbara{
     width:315px;
@@ -102,6 +111,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 .guto{
     width:315px;
@@ -113,6 +125,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 .camila{
     width:315px;
@@ -124,6 +139,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 .christian{
     width:315px;
@@ -135,6 +153,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 .nata{
     width:315px;
@@ -146,6 +167,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 .laura{
     width:315px;
@@ -157,7 +181,11 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
+
 .silvana{
     width:315px;
     height:315px;
@@ -168,6 +196,9 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+      -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 
 .murilo{
@@ -180,6 +211,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
+    
+    -webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	filter: gray; /* IE */
 }
 
 
