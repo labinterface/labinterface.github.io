@@ -69,9 +69,11 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+      
+	-webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 .ubiratan{
     width:315px;
@@ -83,9 +85,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+     -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 .flavio{
     width:315px;
@@ -97,9 +100,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 .barbara{
     width:315px;
@@ -111,9 +115,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+     -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 .guto{
     width:315px;
@@ -125,9 +130,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+     -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 .camila{
     width:315px;
@@ -139,9 +145,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 .christian{
     width:315px;
@@ -153,9 +160,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 .nata{
     width:315px;
@@ -167,9 +175,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+     -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 .laura{
     width:315px;
@@ -181,9 +190,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+   -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 
 .silvana{
@@ -196,9 +206,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 40px;
-      -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 
 .murilo{
@@ -212,9 +223,10 @@ li{
     margin-right: auto;
     margin-bottom: 40px;
     
-    -webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	filter: gray; /* IE */
+  -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 
 
