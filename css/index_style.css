@@ -95,6 +95,11 @@ li{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    
+     -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
 }
 
 article p{
