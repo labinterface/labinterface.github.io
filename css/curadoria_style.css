@@ -56,33 +56,159 @@ li{
 
 .cover_01{
     width:auto;
-    height:314px;
-    border-radius: 20px;
-    background-image: url(/imgs/livro5is.png);
-    background-size:cover;
-    background-position:50% 43%;
+    height:300px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    border-radius: 20px;
+      overflow: hidden;
+
+
 }
 
 .cover_02{
     width:auto;
-    height:314px;
-    border-radius: 20px;
-    background-image: url(/imgs/design_.png);
-    background-size:cover;
-    background-position:50% 43%;
+    height:300px;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+      overflow: hidden;
+
+
 }
+
+.cover_03{
+    width:auto;
+    height:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+    overflow: hidden;
+
+
+}
+
+.cover_04{
+    width:auto;
+    height:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+      overflow: hidden;
+
+
+}
+.cover_05{
+    width:auto;
+    height:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+      overflow: hidden;
+
+
+}
+
+.cover_06{
+    width:auto;
+    height:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+  overflow: hidden;
+
+}
+.cover_07{
+    width:auto;
+    height:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+  overflow: hidden;
+
+}
+
+.cover_08{
+    width:auto;
+    height:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+    overflow: hidden;
+
+
+}
+
+.cover_09{
+    width:auto;
+    height:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+      overflow: hidden;
+
+
+}
+
+
 .textos{
-    
     padding-left: 5%;
     padding-right: 5%;
 }
 
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 10px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.item1{   
+
+}
+.item2{
+}
+.item3{
+
+}
+.item4{
+
+}
+
+.item5{
+
+}
+.item6{
+
+}
+.item7{
+
+}
+.item8{
+
+}
+.item9{
+
+}
+
+
+@media only screen and (max-width:900px) {
+        
+.grid-container{
+    display: grid;
+    grid-template-columns: 100%;
+}
+}
 
 .container{
  background-color: #333333;
@@ -104,3 +230,5 @@ li{
 
     
 }
+
+
