@@ -157,7 +157,17 @@ li{
 
 
 }
+.cover_10{
+    width:auto;
+    height:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 20px 20px;
+      overflow: hidden;
 
+
+}
 
 .textos{
     padding-left: 5%;
@@ -200,7 +210,9 @@ li{
 .item9{
 
 }
+.item10{
 
+}
 
 @media only screen and (max-width:900px) {
         
