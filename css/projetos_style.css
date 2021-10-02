@@ -123,6 +123,7 @@ li{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    margin-top:20px;
 }
 
 .cover_03{
@@ -135,6 +136,7 @@ li{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    margin-top:20px;
 }
 
 .cover_04{
@@ -147,6 +149,7 @@ li{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    margin-top:20px;
 }
 .cover_05{
     width:auto;
@@ -158,6 +161,7 @@ li{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    margin-top:20px;
 }
 .cover_06{
     width:auto;
@@ -169,17 +173,19 @@ li{
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    margin-top:20px;
 }
 .cover_07{
     width:auto;
     height:206px;
     border-radius: 20px;
-    background-image: url(/imgs/INTERFACE_IMAGENS/INICIO.png);
+    background-image: url(/imgs/INTERFACE_IMAGENS/PROJETOS/INICIO.png);
     background-size:cover;
     background-position:20% 20%;
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    margin-top:20px;
 }
 .cover_08{
     width:auto;
