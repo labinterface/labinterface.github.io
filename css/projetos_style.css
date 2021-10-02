@@ -16,7 +16,7 @@ a:hover {
 
 .grid-container{
     display: grid;
-    grid-template-columns: 30% 30% 30%;
+    grid-template-columns: 33% 33% 330%;
     grid-gap: 10px;
     margin-bottom: 3%;
 }
